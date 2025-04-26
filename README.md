@@ -1,1 +1,1 @@
-# GD-implementation
+# GD-implementation.
